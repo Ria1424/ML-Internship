@@ -1,4 +1,4 @@
-# ML-Internship-Project
+# ML Internship- Projects
 
 <h3> <b> Task 1: Customer Churn Prediction </b></h3>
 <p> <b> Objective </b>: Develop a model to predict customer churn for a subscription- based service or business. Use historical
